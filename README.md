@@ -26,6 +26,7 @@ Instructions:
    copy the string to the "eventhub_sas" variable in the config.js file
 
 3. make all the required initialization instructions in the https://tessel.io
+   don't forget to do the npm install
 
 4. connect the tessel device to the computer (if you havent already)
 
